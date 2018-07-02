@@ -83,5 +83,28 @@ namespace wordSearch
                     return false;
                   }
             }
+            public static bool returnTest5(string userInput)
+              {
+                  string[] userSplit = userInput.Split();
+                  int foundNumbers = 0;
+
+                  for(int i = 0; i < userSplit.Length; i++)
+                    {
+                      if (userSplit[i].Contains("you"+".") || userSplit[i].Contains("you"+"?") || userSplit[i].Contains("you"+",") || userSplit[i].Contains("you"+"!"))
+                      {
+                        foundNumbers += 1;
+                      }
+                      else if (userSplit[i] == "you"){
+                        foundNumbers += 1;
+                      }
+                    }
+
+                    if(foundNumbers == 3){
+                      return true;
+                    }
+                    else{
+                      return false;
+                    }
+              }
   }
 }

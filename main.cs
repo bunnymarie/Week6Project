@@ -17,7 +17,7 @@ class wordSearch
 
       for(int i = 0; i < userSplit.Length; i++)
         {
-          if (userSplit[i].Contains(userWord))
+          if (userSplit[i] == userWord + "." || userSplit[i] == userWord + "," || userSplit[i] == userWord + "!" || userSplit[i] == userWord + "?" || userSplit[i] == userWord)
           {
             foundNumbers += 1;
           }
