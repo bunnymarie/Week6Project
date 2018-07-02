@@ -7,9 +7,9 @@ class wordSearch
   {
     public static void Main()
     {
-      Console.WriteLine("This is a program to help you find how many times you've used a word in a piece of writing. Please enter a writing sample we'll be searching from.")
+      Console.WriteLine("This is a program to help you find how many times you've used a word in a piece of writing. Please enter a writing sample we'll be searching from.");
       string userWriting = Console.ReadLine();
-      Console.WriteLine("Please enter the word we're searching for.")
+      Console.WriteLine("Please enter the word we're searching for.");
       string userWord = Console.ReadLine();
 
       string[] userSplit = userWriting.Split();
@@ -22,7 +22,7 @@ class wordSearch
             foundNumbers += 1;
           }
         }
-      Console.WriteLine("You used the word" + userWord + foundNumbers + "times.")
+      Console.WriteLine("You used the word " + "*" + userWord + "*" + " " + foundNumbers + " times.");
     }
   }
 }
