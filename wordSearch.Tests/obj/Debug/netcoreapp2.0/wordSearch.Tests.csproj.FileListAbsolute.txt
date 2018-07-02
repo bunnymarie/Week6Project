@@ -1,0 +1,15 @@
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/wordSearch.Tests.deps.json
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/wordSearch.Tests.runtimeconfig.json
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/wordSearch.Tests.runtimeconfig.dev.json
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/wordSearch.Tests.dll
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/wordSearch.Tests.pdb
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/wordSearch.dll
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/bin/Debug/netcoreapp2.0/wordSearch.pdb
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/obj/Debug/netcoreapp2.0/wordSearch.Tests.csproj.CoreCompileInputs.cache
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/obj/Debug/netcoreapp2.0/wordSearch.Tests.AssemblyInfoInputs.cache
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/obj/Debug/netcoreapp2.0/wordSearch.Tests.AssemblyInfo.cs
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/obj/Debug/netcoreapp2.0/wordSearch.Tests.dll
+/home/dell/Desktop/wordSearch.Solutions/wordSearch.Tests/obj/Debug/netcoreapp2.0/wordSearch.Tests.pdb
