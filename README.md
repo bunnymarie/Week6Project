@@ -9,8 +9,12 @@ _You are able to input a string words, and a single word. You are then able to u
 
 | Purpose | Input | Output |
 | ------- | ----- | ------ |
-|
+| You input a string of words and it stores it in a variable to check against it. | "How are you? I hope to see you soon. I love you and miss you." | string userInput = "How are you? I hope to see you soon. I love you and miss you." |
+| You input a word to check and it stores it in a variable to check with. | "you" | string userWord "you" |
+| The program displays the amount of times you used the single word. | "How are you? I hope to see you soon. I love you and miss you." | "You used the word you four times." |
+| The program only uses true uses of the word, not counting words hidden in words. | "Yourself." | "Yourself does not count." |
 
+_>take string >split string >1+ if string[i] == single word > display result_
 
 ## Setup/Installation Requirements
 
